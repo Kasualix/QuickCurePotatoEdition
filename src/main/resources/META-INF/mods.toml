@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="LGPL-v2.1"
+
+[[mods]]
+modId="quickcurepe"
+version="${file.jarVersion}"
+displayName="QuickCurePotatoEdition"
+authors="Team Potato"
+description='''
+
+'''

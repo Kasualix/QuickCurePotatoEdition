@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.teampotato.quickcurepe.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "quickcurepe.refmap.json",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "MixinZombieVillagerEntity"
+  ]
+}
